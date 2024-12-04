@@ -1,0 +1,29 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 200px;
+  margin-bottom: 150px;
+}
+
+/* Container for Search Form and Results */
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Search Form Section */
+.search-section {
+  display: flex;
+  justify-content: space-between; /* Aligns form and button */
+  gap: 200px; /* Space between them */
+}

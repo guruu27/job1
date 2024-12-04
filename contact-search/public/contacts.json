@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "firstName": "Rajeev",
+      "lastName": "Sharma",
+      "dob": "1986-02-12",
+      "email": "rajeevsharma@gmail.com",
+      "phone": "2582528582",
+      "address": "1001 NOBLE ST STE 1",
+      "city": "FAIRBANKS",
+      "state": "AK",
+      "zip": "99701"
+    },
+    {
+      "id": 2,
+      "firstName": "Eesha",
+      "lastName": "Sharma",
+      "dob": "1995-07-04",
+      "email": "eeshasharma@gmail.com",
+      "phone": "2582528583",
+      "address": "4821 RIDGE TOP CIR",
+      "city": "ANCHORAGE",
+      "state": "AK",
+      "zip": "99508"
+    }
+  ]
